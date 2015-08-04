@@ -7,7 +7,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace NetWorkGroup.Entity
+namespace NetWorkGroup.Entity 
 {
     /// <summary>
     /// 默认程序实现，继承自多功能处理基类，用于实现具体功能，默认的实现TModel必须实现自IModelID&lt;Int64&gt;
